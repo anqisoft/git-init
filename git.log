@@ -5,6 +5,7 @@ echo >> .git/config && echo [user] >> .git/config && echo \ \ name = anqisoft >>
 git add . && git commit -m "Initial commit" && git push origin main
 git add . && git commit -m "Update the readme.md and others" && git push origin master:main
 git add . && git commit -m "Update the readme files, append the hyperlinks." && git push origin master:main
+git add . && git commit -m "Attached pictures for comparison of features of git config --global init.defaultBranch main." && git push origin master:main
 
 # git push origin master
 # git push origin main
