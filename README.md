@@ -1,4 +1,4 @@
-# git-init
+# git-init [简体](README.zh_cn.md '简体') [繁體](README.zh_tw.md '繁體')
 
 ## Description:
 
