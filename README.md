@@ -19,7 +19,9 @@ I recently downloaded and installed the latest version of Git on my Windows 10 m
 Therefore, I suggest that when we use the git-init command, it should create the main branch as the default branch for consistency with the repository.
 
 Best regards,
+
 AnQi
+
 June 10, 2023
 
 ## Attachment: git-init.pdf
@@ -37,6 +39,7 @@ I hope this information helps. Please feel free to reach out if you have any add
 Thank you!
 
 Regards,
+
 [Hide the name] (he/him)
 
 # Reply to git-mentoring:
@@ -81,5 +84,7 @@ git push origin main
 If you have any further suggestions or questions, please let me know.
 
 Best regards,
+
 AnQi (he/him)
+
 June 11, 2023
